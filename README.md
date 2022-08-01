@@ -1,1 +1,2 @@
 # odin-recipes
+This is for a project on The Odin Project. It is a recipe page. Skills I will use on this page are the fundementals of HTML, things like creating files,using headings,using images,and using lists. This project will also be my first using git and github!
